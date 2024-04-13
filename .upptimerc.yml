@@ -4,13 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Brandmeister 3102
-    url: http://74.91.114.19/status/status.htm
+    url: http://74.91.114.19
   - name: Brandmeister 3103
-    url: http://74.91.118.251/status/status.htm
+    url: http://74.91.118.251
   - name: Brandmeister 3104
-    url: http://162.248.88.117/status/status.htm
+    url: http://162.248.88.117
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: http://64.111.99.38
+    port: 42420
+  - name: Chicagoland CBridge
+    url: http://107.191.49.134
+    port: 42420
   - name: IPv6 test
     url: forwardemail.net
     port: 80
