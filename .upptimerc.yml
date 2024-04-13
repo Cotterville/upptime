@@ -24,7 +24,7 @@ sites:
     check: "tcp-ping"
     port: 42420
   - name: CBridge - DilloDMR
-    url: www.dillodmr.com
+    url: 45.55.152.18
     check: "tcp-ping"
     port: 42420
   - name: CBridge - K4USD
