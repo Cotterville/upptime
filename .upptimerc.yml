@@ -5,18 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: DMRTexas.net
     url: https://dmrtexas.net
+    
   - name: Brandmeister 3102
     url: 74.91.114.19
     check: "tcp-ping"
-    port: 80
   - name: Brandmeister 3103
     url: 74.91.118.251
     check: "tcp-ping"
-    port: 80
   - name: Brandmeister 3104
     url: 162.248.88.117
     check: "tcp-ping"
-    port: 80
   - name: CBridge - CBridge 2.0
     url: 64.111.99.38
     check: "tcp-ping"
