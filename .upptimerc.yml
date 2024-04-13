@@ -8,35 +8,35 @@ sites:
     check: "tcp-ping"
     port: 443
   - name: Brandmeister 3102
-    url: http://74.91.114.19
+    url: 74.91.114.19
     check: "tcp-ping"
     port: 80
   - name: Brandmeister 3103
-    url: http://74.91.118.251
+    url: 74.91.118.251
     check: "tcp-ping"
     port: 80
   - name: Brandmeister 3104
-    url: http://162.248.88.117
+    url: 162.248.88.117
     check: "tcp-ping"
     port: 80
   - name: CBridge - CBridge 2.0
-    url: http://64.111.99.38
+    url: 64.111.99.38
     check: "tcp-ping"
     port: 42420
   - name: CBridge - Chicagoland
-    url: http://107.191.49.134
+    url: 107.191.49.134
     check: "tcp-ping"
     port: 42420
   - name: CBridge - DilloDMR
-    url: http://45.55.152.18
+    url: 45.55.152.18
     check: "tcp-ping"
     port: 42420
   - name: CBridge - K4USD
-    url: http://w0yc.stu.umn.edu
+    url: 160.94.103.68
     check: "tcp-ping"
     port: 42420
   - name: CBridge - Lonestar DMR
-    url: http://192.92.239.155
+    url: 192.92.239.155
     check: "tcp-ping"
     port: 42420
   - name: CBridge - SE Texas
@@ -44,11 +44,11 @@ sites:
     check: "tcp-ping"
     port: 443
   - name: CBridge - TXGulfCoast
-    url: http://70.234.211.235
+    url: 70.234.211.235
     check: "tcp-ping"
     port: 42420
   - name: CBridge - TxMARC
-    url: http://cbridge.txmarc.net
+    url: cbridge.txmarc.net
     check: "tcp-ping"
     port: 42420
 
