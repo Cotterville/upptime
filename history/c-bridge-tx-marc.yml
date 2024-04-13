@@ -1,7 +1,7 @@
-url: http://cbridge.txmarc.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-13T02:02:30.665Z
+url: cbridge.txmarc.net
+status: up
+code: 200
+responseTime: 47
+lastUpdated: 2024-04-13T02:07:56.757Z
 startTime: 2024-04-13T01:54:46.592Z
 generator: Upptime <https://github.com/upptime/upptime>
