@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 148,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 59,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/64.111.99.38.ico",
     "slug": "c-bridge-2-0-c-bridge",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 1
+      "2024-04-13": 5
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.191.49.134.ico",
     "slug": "chicagoland-c-bridge",
     "status": "down",
-    "uptime": "14.88%",
-    "uptimeDay": "14.88%",
-    "uptimeWeek": "14.88%",
-    "uptimeMonth": "14.88%",
-    "uptimeYear": "14.88%",
+    "uptime": "6.75%",
+    "uptimeDay": "6.75%",
+    "uptimeWeek": "6.75%",
+    "uptimeMonth": "6.75%",
+    "uptimeYear": "6.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 3
+      "2024-04-13": 7
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/45.55.152.18.ico",
     "slug": "dillo-dmr-c-bridge",
     "status": "down",
-    "uptime": "63.32%",
-    "uptimeDay": "63.32%",
-    "uptimeWeek": "63.32%",
-    "uptimeMonth": "63.32%",
-    "uptimeYear": "63.32%",
+    "uptime": "10.43%",
+    "uptimeDay": "10.43%",
+    "uptimeWeek": "10.43%",
+    "uptimeMonth": "10.43%",
+    "uptimeYear": "10.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 4
     }
   },
   {
