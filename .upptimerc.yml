@@ -59,13 +59,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Cotterville/upptime/9918dc13320c37d1eaa1d8f4718ef772e68fcc05/assets/DMRTexasLogo.png
   name: DMRTexas
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This is the status page for **DMRTexas**"
+  introMessage: "This page will show you the status of the different CBridges and BM servers commonly used with DMR in Texas."
   navbar:
     - title: Home
       href: https://dmrtexas.net/
     - title: Status
       href: /
+  status-website:
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
