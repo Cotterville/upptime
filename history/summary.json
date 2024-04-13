@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmrtexas.net.ico",
     "slug": "dmr-texas-net",
     "status": "down",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 2
+      "2024-04-13": 8
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/74.91.114.19.ico",
     "slug": "brandmeister-3102",
     "status": "down",
-    "uptime": "40.32%",
-    "uptimeDay": "40.32%",
-    "uptimeWeek": "40.32%",
-    "uptimeMonth": "40.32%",
-    "uptimeYear": "40.32%",
+    "uptime": "35.86%",
+    "uptimeDay": "35.86%",
+    "uptimeWeek": "35.86%",
+    "uptimeMonth": "35.86%",
+    "uptimeYear": "35.86%",
     "time": 145,
     "timeDay": 145,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-04-13": 30
+      "2024-04-13": 37
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/74.91.118.251.ico",
     "slug": "brandmeister-3103",
     "status": "down",
-    "uptime": "30.73%",
-    "uptimeDay": "30.73%",
-    "uptimeWeek": "30.73%",
-    "uptimeMonth": "30.73%",
-    "uptimeYear": "30.73%",
+    "uptime": "26.85%",
+    "uptimeDay": "26.85%",
+    "uptimeWeek": "26.85%",
+    "uptimeMonth": "26.85%",
+    "uptimeYear": "26.85%",
     "time": 129,
     "timeDay": 129,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-04-13": 30
+      "2024-04-13": 37
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/162.248.88.117.ico",
     "slug": "brandmeister-3104",
     "status": "down",
-    "uptime": "30.76%",
-    "uptimeDay": "30.76%",
-    "uptimeWeek": "30.76%",
-    "uptimeMonth": "30.76%",
-    "uptimeYear": "30.76%",
+    "uptime": "26.85%",
+    "uptimeDay": "26.85%",
+    "uptimeWeek": "26.85%",
+    "uptimeMonth": "26.85%",
+    "uptimeYear": "26.85%",
     "time": 45,
     "timeDay": 45,
     "timeWeek": 45,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-04-13": 30
+      "2024-04-13": 37
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 2
+      "2024-04-13": 8
     }
   },
   {
@@ -104,6 +104,26 @@
     "url": "http://107.191.49.134",
     "icon": "https://icons.duckduckgo.com/ip3/107.191.49.134.ico",
     "slug": "c-bridge-chicagoland",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-13": 8
+    }
+  },
+  {
+    "name": "CBridge - DilloDMR",
+    "url": "http://45.55.152.18",
+    "icon": "https://icons.duckduckgo.com/ip3/45.55.152.18.ico",
+    "slug": "c-bridge-dillo-dmr",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -116,14 +136,54 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 2
+      "2024-04-13": 8
     }
   },
   {
-    "name": "CBridge - DilloDMR",
-    "url": "http://45.55.152.18",
-    "icon": "https://icons.duckduckgo.com/ip3/45.55.152.18.ico",
-    "slug": "c-bridge-dillo-dmr",
+    "name": "CBridge - K4USD",
+    "url": "http://w0yc.stu.umn.edu",
+    "icon": "https://icons.duckduckgo.com/ip3/w0yc.stu.umn.edu.ico",
+    "slug": "c-bridge-k4-usd",
+    "status": "down",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-13": 8
+    }
+  },
+  {
+    "name": "CBridge - Lonestar DMR",
+    "url": "http://192.92.239.155",
+    "icon": "https://icons.duckduckgo.com/ip3/192.92.239.155.ico",
+    "slug": "c-bridge-lonestar-dmr",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-13": 8
+    }
+  },
+  {
+    "name": "CBridge - SE Texas",
+    "url": "https://cbridge.crhrc.org",
+    "icon": "https://icons.duckduckgo.com/ip3/cbridge.crhrc.org.ico",
+    "slug": "c-bridge-se-texas",
     "status": "down",
     "uptime": "0.03%",
     "uptimeDay": "0.03%",
@@ -136,67 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 2
-    }
-  },
-  {
-    "name": "CBridge - K4USD",
-    "url": "http://w0yc.stu.umn.edu",
-    "icon": "https://icons.duckduckgo.com/ip3/w0yc.stu.umn.edu.ico",
-    "slug": "c-bridge-k4-usd",
-    "status": "down",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-13": 2
-    }
-  },
-  {
-    "name": "CBridge - Lonestar DMR",
-    "url": "http://192.92.239.155",
-    "icon": "https://icons.duckduckgo.com/ip3/192.92.239.155.ico",
-    "slug": "c-bridge-lonestar-dmr",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-13": 2
-    }
-  },
-  {
-    "name": "CBridge - SE Texas",
-    "url": "https://cbridge.crhrc.org",
-    "icon": "https://icons.duckduckgo.com/ip3/cbridge.crhrc.org.ico",
-    "slug": "c-bridge-se-texas",
-    "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-13": 1
+      "2024-04-13": 8
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/70.234.211.235.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 1
+      "2024-04-13": 8
     }
   },
   {
@@ -225,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cbridge.txmarc.net.ico",
     "slug": "c-bridge-tx-marc",
     "status": "down",
-    "uptime": "87.31%",
-    "uptimeDay": "87.31%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "87.31%",
-    "uptimeYear": "87.31%",
+    "uptime": "16.10%",
+    "uptimeDay": "16.10%",
+    "uptimeWeek": "16.10%",
+    "uptimeMonth": "16.10%",
+    "uptimeYear": "16.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 7
     }
   }
 ]
