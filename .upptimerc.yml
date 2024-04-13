@@ -36,8 +36,9 @@ sites:
     check: "tcp-ping"
     port: 42420
   - name: CBridge - SE Texas
-    url: https://cbridge.crhrc.org
+    url: 199.66.149.2
     check: "tcp-ping"
+    port: 443
   - name: CBridge - TXGulfCoast
     url: 70.234.211.235
     check: "tcp-ping"
