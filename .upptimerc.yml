@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: DMRTexas.net
     url: https://dmrtexas.net
-    check: "tcp-ping"
-    port: 443
+#    check: "tcp-ping"
+#    port: 443
   - name: Brandmeister 3102
     url: 74.91.114.19
     check: "tcp-ping"
@@ -58,7 +58,7 @@ status-website:
   cname: status.dmrtexas.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Cotterville/upptime/9918dc13320c37d1eaa1d8f4718ef772e68fcc05/assets/DMRTexasLogo.png
-  # name: DMRTexas
+  name: Status@DMRTexas
   introTitle: "This is the status page for **DMRTexas**"
   introMessage: "This page will show you the status of the CBridges and BM servers commonly used with DMR in Texas."
   navbar:
