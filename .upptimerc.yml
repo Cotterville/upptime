@@ -9,11 +9,14 @@ sites:
     url: http://74.91.118.251
   - name: Brandmeister 3104
     url: http://162.248.88.117
-  - name: Test Broken Site
+  - name: CBridge 2.0 CBridge
     url: http://64.111.99.38
     port: 42420
   - name: Chicagoland CBridge
     url: http://107.191.49.134
+    port: 42420
+  - name: DilloDMR CBridge
+    url: http://45.55.152.18
     port: 42420
   - name: IPv6 test
     url: forwardemail.net
