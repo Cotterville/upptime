@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Brandmeister 3102
-    url: http://74.91.114.19
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    url: http://74.91.114.19/status/status.htm
+  - name: Brandmeister 3103
+    url: http://74.91.118.251/status/status.htm
+  - name: Brandmeister 3104
+    url: http://162.248.88.117/status/status.htm
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
@@ -20,7 +20,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.dmrtexas.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -30,7 +30,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Cotterville/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
