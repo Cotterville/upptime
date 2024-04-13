@@ -58,9 +58,9 @@ status-website:
   cname: status.dmrtexas.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Cotterville/upptime/9918dc13320c37d1eaa1d8f4718ef772e68fcc05/assets/DMRTexasLogo.png
-  name: DMRTexas
+  # name: DMRTexas
   introTitle: "This is the status page for **DMRTexas**"
-  introMessage: "This page will show you the status of the different CBridges and BM servers commonly used with DMR in Texas."
+  introMessage: "This page will show you the status of the CBridges and BM servers commonly used with DMR in Texas."
   navbar:
     - title: Home
       href: https://dmrtexas.net/
