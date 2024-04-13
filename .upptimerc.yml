@@ -3,32 +3,54 @@ owner: Cotterville # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
+  - name: DMRTexas.net
+    url: https://dmrtexas.net
+    check: "tcp-ping"
+    port: 443
   - name: Brandmeister 3102
     url: http://74.91.114.19
     check: "tcp-ping"
+    port: 80
   - name: Brandmeister 3103
     url: http://74.91.118.251
     check: "tcp-ping"
+    port: 80
   - name: Brandmeister 3104
     url: http://162.248.88.117
     check: "tcp-ping"
-  - name: CBridge 2.0 CBridge
+    port: 80
+  - name: CBridge - CBridge 2.0
     url: http://64.111.99.38
     check: "tcp-ping"
     port: 42420
-  - name: Chicagoland CBridge
+  - name: CBridge - Chicagoland
     url: http://107.191.49.134
     check: "tcp-ping"
     port: 42420
-  - name: DilloDMR CBridge
+  - name: CBridge - DilloDMR
     url: http://45.55.152.18
     check: "tcp-ping"
     port: 42420
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: CBridge - K4USD
+    url: http://w0yc.stu.umn.edu
     check: "tcp-ping"
-    ipv6: true
+    port: 42420
+  - name: CBridge - Lonestar DMR
+    url: http://192.92.239.155
+    check: "tcp-ping"
+    port: 42420
+  - name: CBridge - SE Texas
+    url: https://cbridge.crhrc.org
+    check: "tcp-ping"
+    port: 443
+  - name: CBridge - TXGulfCoast
+    url: http://70.234.211.235
+    check: "tcp-ping"
+    port: 42420
+  - name: CBridge - TxMARC
+    url: http://cbridge.txmarc.net
+    check: "tcp-ping"
+    port: 42420
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -44,8 +66,6 @@ status-website:
       href: https://dmrtexas.net/
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/Cotterville/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
