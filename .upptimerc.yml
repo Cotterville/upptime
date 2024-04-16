@@ -5,47 +5,60 @@ repo: upptime # The name of this repository
 sites:
   - name: DMRTexas.net
     url: https://dmrtexas.net
+    maxResponseTime: 5000
+    ipv6: true
   - name: Brandmeister 3102
     url: 74.91.114.19
     check: "tcp-ping"
+    maxResponseTime: 5000
   - name: Brandmeister 3103
     url: 74.91.118.251
     check: "tcp-ping"
+    maxResponseTime: 5000
   - name: Brandmeister 3104
     url: 162.248.88.117
     check: "tcp-ping"
+    maxResponseTime: 5000
   - name: CBridge - CBridge 2.0
     url: 64.111.99.38
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - Chicagoland
     url: 107.191.49.134
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - DilloDMR
     url: 45.55.152.18
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - K4USD
     url: 160.94.103.68
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - Lonestar DMR
     url: 192.92.239.155
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - SE Texas
     url: 199.66.149.2
     check: "tcp-ping"
     port: 443
+    maxResponseTime: 5000
   - name: CBridge - TXGulfCoast
     url: 70.234.211.235
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
   - name: CBridge - TxMARC
     url: 72.20.134.101
     check: "tcp-ping"
     port: 42420
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
