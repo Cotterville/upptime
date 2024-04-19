@@ -6,6 +6,7 @@ sites:
   - name: DMRTexas.net
     url: https://dmrtexas.net
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico
     ipv6: true
     assignees:
     - Cotterville
@@ -13,6 +14,7 @@ sites:
     url: 74.91.114.19
     check: "tcp-ping"
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico
   - name: Brandmeister 3103
     url: 74.91.118.251
     check: "tcp-ping"
