@@ -82,13 +82,13 @@ status-website:
   name: "Status@DMRTexas"
   introTitle: "Welcome to the new status page for **DMRTexas**"
   introMessage: "See the uptime status of the CBridges and BM servers commonly used with DMR in Texas."
+  status-website:
+  theme: dark
   navbar:
     - title: Home
       href: https://dmrtexas.net/
     - title: Status
       href: /
-  status-website:
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
