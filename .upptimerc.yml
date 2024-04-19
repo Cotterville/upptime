@@ -30,13 +30,13 @@ sites:
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - Chicagoland
     url: 107.191.49.134
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
     assignees:
     - Cotterville
   - name: CBridge - DilloDMR
@@ -44,37 +44,37 @@ sites:
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - K4USD
     url: 160.94.103.68
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - Lonestar DMR
     url: 192.92.239.155
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - SE Texas
     url: 199.66.149.2
     check: "tcp-ping"
     port: 443
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - TXGulfCoast
     url: 70.234.211.235
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - TxMARC
     url: 72.20.134.101
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/dmr-favicon.ico
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
