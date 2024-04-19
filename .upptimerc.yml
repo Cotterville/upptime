@@ -10,17 +10,17 @@ sites:
     ipv6: true
     assignees:
     - Cotterville
-  - name: Brandmeister 3102
+  - name: Brandmeister 3102 (Dallas)
     url: 74.91.114.19
     check: "tcp-ping"
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico
-  - name: Brandmeister 3103
+  - name: Brandmeister 3103 (San Jose)
     url: 74.91.118.251
     check: "tcp-ping"
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico
-  - name: Brandmeister 3104
+  - name: Brandmeister 3104 (Chicago)
     url: 162.248.88.117
     check: "tcp-ping"
     maxResponseTime: 5000
