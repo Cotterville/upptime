@@ -4,18 +4,20 @@
     "url": "https://dmrtexas.net",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico",
     "slug": "dmr-texas-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 613,
-    "timeWeek": 947,
-    "timeMonth": 850,
-    "timeYear": 850,
-    "dailyMinutesDown": {}
+    "time": 1882,
+    "timeDay": 14143,
+    "timeWeek": 2431,
+    "timeMonth": 1882,
+    "timeYear": 1882,
+    "dailyMinutesDown": {
+      "2024-04-21": 0
+    }
   },
   {
     "name": "Brandmeister 3102 (Dallas)",
