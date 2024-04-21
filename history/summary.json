@@ -4,19 +4,19 @@
     "url": "https://dmrtexas.net",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico",
     "slug": "dmr-texas-net",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1882,
-    "timeDay": 14143,
-    "timeWeek": 2431,
-    "timeMonth": 1882,
-    "timeYear": 1882,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1828,
+    "timeDay": 9565,
+    "timeWeek": 2325,
+    "timeMonth": 1828,
+    "timeYear": 1828,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 15
     }
   },
   {
