@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico",
     "slug": "dmr-texas-net",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1748,
     "timeDay": 798,
     "timeWeek": 2321,
@@ -186,9 +186,9 @@
     "url": "70.234.211.235",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,9 @@
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   },
   {
     "name": "CBridge - TxMARC",
