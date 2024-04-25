@@ -4,9 +4,9 @@
     "url": "https://dmrtexas.net",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico",
     "slug": "dmr-texas-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 1672,
     "timeYear": 1672,
     "dailyMinutesDown": {
+      "2024-04-25": 0,
       "2024-04-21": 15
     }
   },
