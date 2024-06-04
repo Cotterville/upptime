@@ -80,7 +80,7 @@ status-website:
   cname: status.dmrtexas.net
   logoUrl: https://raw.githubusercontent.com/Cotterville/upptime/9918dc13320c37d1eaa1d8f4718ef772e68fcc05/assets/DMRTexasLogo.png
   name: "Status@DMRTexas"
-  introTitle: "Welcome to the new status page for **DMRTexas**"
+  introTitle: "Welcome to the status page for **DMRTexas**"
   introMessage: "See the uptime status of the CBridges and BM servers commonly used with DMR in Texas."
   status-website:
   theme: dark
