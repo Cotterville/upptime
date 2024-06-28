@@ -139,11 +139,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "up",
-    "uptime": "91.64%",
+    "uptime": "91.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.54%",
-    "uptimeYear": "91.64%",
+    "uptimeYear": "91.68%",
     "time": 60,
     "timeDay": 69,
     "timeWeek": 70,
@@ -203,9 +203,9 @@
     "url": "74.91.118.251",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3103-san-jose",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,7 +214,9 @@
     "timeWeek": 63,
     "timeMonth": 71,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-28": 0
+    }
   },
   {
     "name": "Brandmeister 3104 (Chicago)",
