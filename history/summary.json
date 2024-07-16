@@ -44,10 +44,10 @@
     "url": "107.191.49.134",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-chicagoland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
@@ -55,7 +55,9 @@
     "timeWeek": 30,
     "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 1
+    }
   },
   {
     "name": "CBridge - DilloDMR",
@@ -101,19 +103,17 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-lonestar-dmr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 35,
     "timeDay": 38,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 35,
-    "dailyMinutesDown": {
-      "2024-07-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CBridge - SE Texas",
@@ -141,18 +141,18 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "down",
-    "uptime": "83.84%",
+    "uptime": "83.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.64%",
-    "uptimeYear": "83.84%",
+    "uptimeMonth": "70.59%",
+    "uptimeYear": "83.82%",
     "time": 59,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 61,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2024-07-16": 931,
+      "2024-07-16": 954,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
