@@ -49,7 +49,7 @@ sites:
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - TXGulfCoast
-    url: 66.170.201.251
+    url: 66.170.192.14
     check: "tcp-ping"
     port: 42420
     maxResponseTime: 5000
