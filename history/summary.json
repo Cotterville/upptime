@@ -83,11 +83,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-k4-usd",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 29,
     "timeDay": 10,
     "timeWeek": 25,
@@ -141,11 +141,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "up",
-    "uptime": "80.69%",
+    "uptime": "80.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.57%",
+    "uptimeWeek": "49.63%",
     "uptimeMonth": "56.17%",
-    "uptimeYear": "80.69%",
+    "uptimeYear": "80.79%",
     "time": 59,
     "timeDay": 36,
     "timeWeek": 45,
@@ -203,28 +203,30 @@
     "url": "74.91.114.19",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3102-dallas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 71,
     "timeWeek": 82,
     "timeMonth": 74,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 3
+    }
   },
   {
     "name": "Brandmeister 3103 (San Jose)",
     "url": "74.91.118.251",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3103-san-jose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
     "time": 69,
@@ -233,6 +235,7 @@
     "timeMonth": 66,
     "timeYear": 69,
     "dailyMinutesDown": {
+      "2024-07-24": 1,
       "2024-06-28": 74
     }
   },
@@ -241,9 +244,9 @@
     "url": "162.248.88.117",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3104-chicago",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -252,6 +255,8 @@
     "timeWeek": 69,
     "timeMonth": 61,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   }
 ]
