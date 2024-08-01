@@ -141,11 +141,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "up",
-    "uptime": "82.10%",
+    "uptime": "82.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.02%",
-    "uptimeYear": "82.10%",
+    "uptimeMonth": "58.91%",
+    "uptimeYear": "82.19%",
     "time": 58,
     "timeDay": 49,
     "timeWeek": 43,
@@ -185,9 +185,9 @@
     "url": "72.20.134.101",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-marc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -196,7 +196,9 @@
     "timeWeek": 46,
     "timeMonth": 43,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   },
   {
     "name": "Brandmeister 3102 (Dallas)",
