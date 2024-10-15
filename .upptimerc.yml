@@ -4,7 +4,8 @@ repo: upptime # The name of this repository
 
 sites:
   - name: DMRTexas.net
-    url: 173.236.245.117
+    url: 2607:F298:0005:117B:0000:0000:06CD:9F1E
+    ipv6: true
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico
     assignees:
