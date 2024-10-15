@@ -3,13 +3,13 @@ owner: Cotterville # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  #- name: DMRTexas.net
-  #  url: https://dmrtexas.net
-  #  maxResponseTime: 5000
-  #  icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico
-  #  ipv6: true
-  #  assignees:
-  #  - Cotterville
+  - name: DMRTexas.net
+    url: 173.236.245.117
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico
+    ipv6: true
+    assignees:
+    - Cotterville
   - name: CBridge - CBridge 2.0
     url: 64.111.99.38
     check: "tcp-ping"
