@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: DMRTexas.net
-    url: https://dmrtexas.net
+    url: https://dmrtexas.net/doku.php?id=start
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/texas-favicon.ico
   - name: CBridge - CBridge 2.0
