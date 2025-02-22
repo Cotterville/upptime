@@ -21,13 +21,6 @@ sites:
     port: 42420
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
- # K4USD seem to have disappeared. This entry will be removed after a short period.
- # - name: CBridge - K4USD
- #   url: 160.94.103.68
- #   check: "tcp-ping"
- #   port: 42420
- #   maxResponseTime: 5000
- #   icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
   - name: CBridge - Lonestar DMR
     url: 192.92.239.155
     check: "tcp-ping"
@@ -82,6 +75,6 @@ status-website:
     - title: Status
       href: /
 
-# Updated on June 12, 2024
+# Updated on 20250221
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
