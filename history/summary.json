@@ -4,19 +4,19 @@
     "url": "64.111.99.38",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-c-bridge-2-0",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 56,
-    "timeWeek": 40,
-    "timeMonth": 29,
+    "timeDay": 67,
+    "timeWeek": 44,
+    "timeMonth": 30,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 12
     }
   },
   {
