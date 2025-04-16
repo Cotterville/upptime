@@ -22,9 +22,9 @@
     "url": "107.191.49.134",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-chicagoland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 34,
     "timeYear": 29,
     "dailyMinutesDown": {
+      "2025-04-16": 0,
       "2025-03-16": 19,
       "2025-03-11": 23,
       "2024-07-16": 23
@@ -242,7 +243,7 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.98%",
+    "uptimeWeek": "83.69%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "99.58%",
     "time": 65,
