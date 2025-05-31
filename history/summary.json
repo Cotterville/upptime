@@ -92,7 +92,7 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-se-texas",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "98.20%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
@@ -215,9 +215,9 @@
     "url": "74.91.114.19",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3102-dallas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -227,6 +227,7 @@
     "timeMonth": 71,
     "timeYear": 72,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2024-07-24": 27
     }
   },
