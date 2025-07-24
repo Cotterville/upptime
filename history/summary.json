@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 29,
-    "timeDay": 1,
-    "timeWeek": 35,
-    "timeMonth": 28,
+    "time": 28,
+    "timeDay": 71,
+    "timeWeek": 36,
+    "timeMonth": 29,
     "timeYear": 29,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 31,
-    "timeDay": 22,
+    "timeDay": 51,
     "timeWeek": 34,
-    "timeMonth": 28,
-    "timeYear": 32,
+    "timeMonth": 29,
+    "timeYear": 31,
     "dailyMinutesDown": {
       "2025-04-16": 67,
       "2025-03-16": 19,
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 7,
+    "timeDay": 78,
     "timeWeek": 43,
-    "timeMonth": 34,
+    "timeMonth": 35,
     "timeYear": 33,
     "dailyMinutesDown": {
       "2025-01-19": 21
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.46%",
     "time": 35,
-    "timeDay": 31,
+    "timeDay": 42,
     "timeWeek": 34,
-    "timeMonth": 30,
+    "timeMonth": 31,
     "timeYear": 35,
     "dailyMinutesDown": {
       "2025-07-20": 21,
@@ -92,13 +92,13 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-se-texas",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "95.57%",
     "time": 47,
-    "timeDay": 52,
+    "timeDay": 49,
     "timeWeek": 49,
     "timeMonth": 45,
     "timeYear": 48,
@@ -143,18 +143,19 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-gulf-coast",
     "status": "down",
-    "uptime": "84.61%",
+    "uptime": "84.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.75%",
+    "uptimeYear": "85.48%",
     "time": 55,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-07-23": 58,
+      "2025-07-24": 58,
+      "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -220,15 +221,15 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-tx-marc",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.00%",
     "time": 44,
-    "timeDay": 38,
+    "timeDay": 49,
     "timeWeek": 44,
-    "timeMonth": 42,
+    "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2025-06-17": 31,
@@ -258,13 +259,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 72,
-    "timeDay": 81,
+    "timeDay": 59,
     "timeWeek": 69,
     "timeMonth": 70,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-05-31": 42,
-      "2024-07-24": 27
+      "2025-05-31": 42
     }
   },
   {
@@ -279,16 +279,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 64,
-    "timeDay": 84,
+    "timeDay": 31,
     "timeWeek": 56,
-    "timeMonth": 62,
+    "timeMonth": 61,
     "timeYear": 63,
     "dailyMinutesDown": {
       "2025-06-12": 83,
       "2025-04-10": 331,
       "2025-04-09": 1435,
-      "2025-04-08": 339,
-      "2024-07-24": 25
+      "2025-04-08": 339
     }
   },
   {
@@ -303,14 +302,13 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 58,
-    "timeDay": 67,
+    "timeDay": 54,
     "timeWeek": 60,
     "timeMonth": 60,
     "timeYear": 64,
     "dailyMinutesDown": {
       "2025-07-09": 24,
-      "2025-01-29": 67,
-      "2024-07-24": 49
+      "2025-01-29": 67
     }
   }
 ]
