@@ -33,12 +33,13 @@ sites:
     port: 443
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
-  - name: CBridge - TXGulfCoast
-    url: 66.170.192.14
-    check: "tcp-ping"
-    port: 42420
-    maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
+#  - name: CBridge - TXGulfCoast
+#    url: 66.170.192.14
+#    check: "tcp-ping"
+#    port: 42420
+#    maxResponseTime: 5000
+#    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico 
+# This entry will be removed soon. It has been offline since 20250509.
   - name: CBridge - TxMARC
     url: 72.20.134.101
     check: "tcp-ping"
