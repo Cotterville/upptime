@@ -4,7 +4,7 @@
     "url": "64.111.99.38",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-c-bridge-2-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 31,
     "timeMonth": 28,
     "timeYear": 30,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   },
   {
     "name": "CBridge - Chicagoland",
@@ -87,11 +89,11 @@
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico",
     "slug": "c-bridge-se-texas",
     "status": "up",
-    "uptime": "96.84%",
+    "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.68%",
+    "uptimeYear": "96.80%",
     "time": 47,
     "timeDay": 48,
     "timeWeek": 52,
