@@ -145,11 +145,11 @@
     "url": "74.91.114.19",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3102-dallas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 71,
     "timeDay": 56,
@@ -157,6 +157,7 @@
     "timeMonth": 66,
     "timeYear": 70,
     "dailyMinutesDown": {
+      "2025-10-02": 3,
       "2025-05-31": 42
     }
   },
@@ -165,10 +166,10 @@
     "url": "74.91.118.251",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3103-san-jose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.55%",
     "time": 63,
@@ -177,6 +178,7 @@
     "timeMonth": 58,
     "timeYear": 62,
     "dailyMinutesDown": {
+      "2025-10-02": 2,
       "2025-09-04": 165,
       "2025-06-12": 83,
       "2025-04-10": 331,
@@ -189,9 +191,9 @@
     "url": "162.248.88.117",
     "icon": "https://raw.githubusercontent.com/Cotterville/upptime/master/assets/server-favicon.ico",
     "slug": "brandmeister-3104-chicago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -201,6 +203,7 @@
     "timeMonth": 57,
     "timeYear": 63,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-07-09": 24,
       "2025-01-29": 67
     }
