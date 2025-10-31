@@ -27,19 +27,19 @@ sites:
     port: 42420
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
-  - name: CBridge - SE Texas
-    url: 199.66.149.2
-    check: "tcp-ping"
-    port: 443
-    maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
-#  - name: CBridge - TXGulfCoast
-#    url: 66.170.192.14
+# To be removed. DNS resolution error.
+#  - name: CBridge - SE Texas
+#    url: 199.66.149.2
 #    check: "tcp-ping"
-#    port: 42420
+#    port: 443
 #    maxResponseTime: 5000
-#    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico 
-# This entry will be removed soon. It has been offline since 20250509.
+#    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico
+  - name: CBridge - TXGulfCoast
+    url: 216.81.41.49 
+    check: "tcp-ping"
+    port: 42420
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/Cotterville/upptime/master/assets/tower-favicon.ico 
   - name: CBridge - TxMARC
     url: 72.20.134.101
     check: "tcp-ping"
